@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+
 var shell = require('shelljs')
 var chalk = require('chalk')
 var npmAddScript = require('npm-add-script')

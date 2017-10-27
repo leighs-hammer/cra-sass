@@ -1,6 +1,6 @@
 {
   "name": "cra-sass",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simply sets up sass compile and watch inside create react app. ",
   "main": "index.js",
   "scripts": {

@@ -3,7 +3,7 @@ Simply setup SASS within create react app, as per the CRA readme.
 
 ## Install & Use
 
-1. INSTALL : `npm install cra-sass --save`
+1. INSTALL : `npm install -g cra-sass --save` ( As with CRA I suggest installing this globally)
 2. RUN IT : `cra-sass` ( from within your CRA install )
 
 ## What it does
