@@ -1,0 +1,32 @@
+{
+  "name": "cra-sass",
+  "version": "0.0.2",
+  "description": "Simply sets up sass compile and watch inside create react app. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "cra-sass": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/leighs-hammer/cra-sass.git"
+  },
+  "keywords": [
+    "SASS",
+    "React",
+    "create-react-app"
+  ],
+  "author": "Leigh Brendon Barnes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leighs-hammer/cra-sass/issues"
+  },
+  "homepage": "https://github.com/leighs-hammer/cra-sass#readme",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "npm-add-script": "^1.1.0",
+    "shelljs": "^0.7.8"
+  }
+}
