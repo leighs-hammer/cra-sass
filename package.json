@@ -9,6 +9,7 @@
   "bin": {
     "cra-sass": "./index.js"
   },
+  "preferGlobal": true,
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/leighs-hammer/cra-sass.git"
